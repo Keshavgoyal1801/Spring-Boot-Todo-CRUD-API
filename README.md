@@ -65,26 +65,6 @@ src/
 
 ---
 
-## ⚙️ How to Run Locally
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/springboot-todo-crud-api.git
-   ```
-
-2. Open in your IDE 
-3. Run the application:
-   ```bash
-   mvn spring-boot:run
-   ```
-
-4. Server will start at:
-   ```
-   http://localhost:8080
-   ```
-
----
-
 ## 🛠️ Tech Stack
 
 - Java
